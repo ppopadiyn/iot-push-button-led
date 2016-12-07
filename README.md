@@ -7,7 +7,6 @@ Basic setup and application, which uses a push button to control LED. Demos on:
   - Running on Raspbian is required. Node v6 recommended.
   - npm install
   - npm start
-- Python (win10iot)
 
 ## Raspberry Setup
 1. LED cathode to pin 5.
