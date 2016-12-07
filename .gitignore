@@ -6,3 +6,6 @@
 **/.vs/config/applicationhost.config
 lib.zip/
 *.tlog
+*.log
+node_modules
+typings
