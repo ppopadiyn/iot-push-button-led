@@ -3,7 +3,7 @@
 Basic setup and application, which uses a push button to control LED. Demos on:
 
 - C# and UWP (win10iot)
-- Node.js with JohnyFive (raspbian)
+- Node.js with JohnnyFive and raspi-io. (Running on Raspbian is required)
 - Python (win10iot)
 
 ## Raspberry Setup
