@@ -2,9 +2,9 @@
 
 Basic setup and application, which uses a push button to control LED. Demos on:
 
-- C# and UWP
-- Node.js with JohnyFive
-- Python
+- C# and UWP (win10iot)
+- Node.js with JohnyFive (raspbian)
+- Python (win10iot)
 
 ## Raspberry Setup
 1. LED cathode to pin 5.
