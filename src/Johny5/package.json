@@ -1,0 +1,14 @@
+{
+  "name": "push-button-led",
+  "version": "1.0.0",
+  "description": "Uses a push button to control LED.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ppopadiyn",
+  "license": "ISC",
+  "dependencies": {
+    "johnny-five": "^0.10.6"
+  }
+}
